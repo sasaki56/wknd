@@ -1,0 +1,5 @@
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListenerTest.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTaskTest.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServletTest.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModelTest.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/test/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilterTest.java

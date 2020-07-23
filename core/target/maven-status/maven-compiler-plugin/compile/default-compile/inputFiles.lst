@@ -1,0 +1,10 @@
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/servlets/package-info.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/filters/LoggingFilter.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/filters/package-info.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/models/HelloWorldModel.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/models/package-info.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/listeners/SimpleResourceListener.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/schedulers/package-info.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/schedulers/SimpleScheduledTask.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/servlets/SimpleServlet.java
+/mnt/c/Users/nosasaki/dev/work/0723/aem-guides-wknd/core/src/main/java/com/adobe/aem/guides/wknd/core/listeners/package-info.java

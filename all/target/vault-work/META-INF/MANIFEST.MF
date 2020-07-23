@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: WKND Sites Project - All
+Content-Package-Roots: /apps/wknd-packages,/apps/wknd-vendor-packages
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pengwin
+Implementation-Vendor-Id: com.adobe.aem.guides
+Content-Package-Type: application
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_252
+Content-Package-Description: All content package for WKND Sites Projec
+ t
+Content-Package-Id: wknd:aem-guides-wknd.all:0.0.1-SNAPSHOT
+
